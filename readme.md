@@ -5,7 +5,7 @@ I will be continuously adding more content to this repository over time.
 
 ## **Navigation**
 - Kubernetes
-  - [building-simple-kubernetes-cluster](./templates//kubernetes/building-simple-kubernetes-cluster/readme.md)
+  - [building-simple-kubernetes-cluster](./templates/kubernetes/1.building-simple-kubernetes-cluster/readme.md)
 
 ## **Contact Information**
 
