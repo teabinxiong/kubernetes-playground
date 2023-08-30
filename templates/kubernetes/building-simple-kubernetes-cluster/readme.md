@@ -99,7 +99,7 @@ The cluster should have **one** control panel node and **two** worker nodes.
   18.  Login to both worker nodes (Server-2 and Server-3) to perform the previos steps
 
 ### **Initialize the Cluster** ###
-  1. Login to the control plane node ()
+  1. Login to the control plane node (Sever-1)
   2. Initialize the Kubernetes cluster on the control plane node using `kubeadm`:
         ```
         sudo kubeadm init --pod-network-cidr 192.168.0.0/16 --kubernetes-version 1.27.0
